@@ -1,0 +1,9 @@
+export const COMPLEX_PROMPT_EXAMPLE = `Ultra-realistic portrait in an urban café with a melancholic, intimate mood, seen through subtle glass reflections that separate the subject from a warm, bustling background. Subject seated sideways at a dark table, torso slightly tilted right, gaze direct and subtly seductive, relaxed friendly expression, level shoulders. Forearms resting gently on the table, hands relaxed one over the other. Wearing dark charcoal chunky knit crewneck sweater with minimalist wrist and finger accessories. Soft directional key light from front left, high angle, forming modified Rembrandt/loop lighting with -2:1 contrast, complemented by a large white reflector camera right for fill. Warm ambient background lights create soft rim accents. WB-5500K enhancing amber range bokeh. Full frame camera with 85 mm lens at ~ 1.5 m, f/1.8, 1/160 s, ISO 200, Linear Response profile, single-point AF on nearest eye. Medium close up vertical 4:5, rule of thirds composition with nearest eye on upper-left intersection and ~20% free space. Foreground includes subtle glass reflection-soft-focus cup, background deeply blurred with warm cinematic bokeh. Post: HDR (Highlights-25, Shadows-20), soft S-curve contrast, subtle film grain, cool toned grading on subject balanced with warm background for gentle tonal split (blue/green vs orange). Natural vignette, moderate clarity and sharpening, skin texture preserved, no smoothing. Cinematic urban portrait, contemplative, realistic, soft lighting, window reflection, intimate modern aesthetic.`;
+
+export const SUGGESTED_EDITS = [
+  "Add a retro filter",
+  "Remove the background",
+  "Turn the scene into a cyberpunk city",
+  "Make it look like a pencil sketch",
+  "Change the lighting to sunset"
+];
